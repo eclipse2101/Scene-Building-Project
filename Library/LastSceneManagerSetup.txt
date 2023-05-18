@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/CodeHS 3d model making.unity.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
