@@ -1,0 +1,32 @@
+newmtl body1
+Ka 0.972549 0.972549 0.972549
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka body1.png
+map_Kd body1.png
+map_d body1.png
+newmtl body2
+Ka 0.972549 0.972549 0.972549
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka body2.png
+map_Kd body2.png
+map_d body2.png
+newmtl body3
+Ka 0.972549 0.972549 0.972549
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka body3.png
+map_Kd body3.png
+map_d body3.png
+newmtl eyes1
+Ka 0 0 0
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka eyes1.png
+map_Kd eyes1.png
+map_d eyes1.png
