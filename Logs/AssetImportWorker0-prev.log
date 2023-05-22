@@ -1,0 +1,300 @@
+Unity Editor version:    2020.3.42f1 (7ade1201f527)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.2.1 (Build 20D74)
+Darwin version:          20.3.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/game1/Downloads/Scene Building Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49975
+Successfully changed project path to: /Users/game1/Downloads/Scene Building Project
+/Users/game1/Downloads/Scene Building Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.42f1 (7ade1201f527)
+[Subsystems] Discovering subsystems at path /Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/game1/Downloads/Scene Building Project/Assets
+GfxDevice: creating device client; threaded=0
+2023-05-18 08:45:16.047 Unity[1567:21905] iMac preferred device: AMD Radeon Pro 5500 XT (high power)
+2023-05-18 08:45:16.047 Unity[1567:21905] Metal devices available: 1
+2023-05-18 08:45:16.047 Unity[1567:21905] 0: AMD Radeon Pro 5500 XT (high power)
+2023-05-18 08:45:16.047 Unity[1567:21905] Using device AMD Radeon Pro 5500 XT (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500 XT
+Initialize mono
+Mono path[0] = '/Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56567
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000438 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 24.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.512 seconds
+Domain Reload Profiling:
+	ReloadAssembly (512ms)
+		BeginReloadAssembly (36ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (411ms)
+			LoadAssemblies (36ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (155ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (151ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (25ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (88ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.894 seconds
+Domain Reload Profiling:
+	ReloadAssembly (895ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (712ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (271ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (252ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (178ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.007055 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.010885 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1491 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.2 MB.
+System memory in use after: 179.4 MB.
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 1971.
+Total: 2.398828 ms (FindLiveObjects: 0.106104 ms CreateObjectMapping: 0.038081 ms MarkObjects: 1.841192 ms  DeleteObjects: 0.412908 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def13.png
+  artifactKey: Guid(9fe04520c31c445bfb76261c40c3b60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def13.png using Guid(9fe04520c31c445bfb76261c40c3b60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691e70c40a866885a9d1dff98d072231') in 0.753274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def23.png
+  artifactKey: Guid(ab51c0ee9d667481ea0466c564694dc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def23.png using Guid(ab51c0ee9d667481ea0466c564694dc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b85579c9c28eaad5a4d5e4be5edc29e') in 0.005485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def29.png
+  artifactKey: Guid(53eea8f26a319489ca8aca16f9a8b29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def29.png using Guid(53eea8f26a319489ca8aca16f9a8b29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3ee762e528e50833e1848429d3a8f2') in 0.003909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def22.png
+  artifactKey: Guid(2546b6981f9914ccb8291c86dda03951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def22.png using Guid(2546b6981f9914ccb8291c86dda03951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff55889828595fec9e819e57c53fddb') in 0.003804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son
+  artifactKey: Guid(7abf5372804694ef1b73c7ba883a2bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son using Guid(7abf5372804694ef1b73c7ba883a2bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98c4185fbcf35790b4b31642525ed23') in 0.000636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def31.png
+  artifactKey: Guid(bdd932f8445b4434cb20053df674dacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def31.png using Guid(bdd932f8445b4434cb20053df674dacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a08afa74ce431cfb43d274147ef4de') in 0.003730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/son.obj
+  artifactKey: Guid(897a0a74ecf0540e28685841731c6d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/son.obj using Guid(897a0a74ecf0540e28685841731c6d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6945129cc494a78f1e9429948cecc561') in 2.397597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def21.png
+  artifactKey: Guid(9bd92f166e449497a94d7509305aa53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/Def21.png using Guid(9bd92f166e449497a94d7509305aa53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8bc920e3473ca3822a90a8b744e7d58') in 0.006137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 726.876989 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/actual good sonic models
+  artifactKey: Guid(f1ed5d5888d13403bb9567cfec10c186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/actual good sonic models using Guid(f1ed5d5888d13403bb9567cfec10c186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a33102b6f1196c2828ecbc71b30e6a5') in 0.001370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.411628 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/actual good sonic models/Sonic.prefab
+  artifactKey: Guid(37f1cc8d085264c95afe23360aa7c86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/actual good sonic models/Sonic.prefab using Guid(37f1cc8d085264c95afe23360aa7c86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044418656d77ed51a67020560cc405eb') in 0.776151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.508281 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/actual good sonic models/Sonic.prefab
+  artifactKey: Guid(37f1cc8d085264c95afe23360aa7c86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/actual good sonic models/Sonic.prefab using Guid(37f1cc8d085264c95afe23360aa7c86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb92946ea4dce1824c589c9c735cba58') in 0.010380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.171771 seconds.
+  path: Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/son_ball/son_ball.obj
+  artifactKey: Guid(e2f4f81e0d3f345bfb08b641d46db324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DS DSi - Sonic Rush - Sonic the Hedgehog/son_ball/son_ball.obj using Guid(e2f4f81e0d3f345bfb08b641d46db324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542f25ee43db2c828f30fe8a5d71b7b3') in 0.043112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 424.562559 seconds.
+  path: Assets/Sonic color models
+  artifactKey: Guid(fdd5880577f864165ae9e8bd326546ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models using Guid(fdd5880577f864165ae9e8bd326546ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b015329b117f34434a78a4fd782360a') in 0.001293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.597501 seconds.
+  path: Assets/Sonic color models/Burst Wisp
+  artifactKey: Guid(6ba12aea85925472dba7259baaf456ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Burst Wisp using Guid(6ba12aea85925472dba7259baaf456ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d7b504c8d7a44684998a0aa6027b62f') in 0.000985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.586603 seconds.
+  path: Assets/Sonic color models/Burst Wisp/body1.png
+  artifactKey: Guid(b3b089fa2d3ae4247adc74607d06b383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Burst Wisp/body1.png using Guid(b3b089fa2d3ae4247adc74607d06b383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dbe3489d735cc7f7dbdf463bf9582bd') in 0.003956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Sonic color models/Burst Wisp/eyes1.png
+  artifactKey: Guid(1251601e90dbc4382988a6ab3ed00602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Burst Wisp/eyes1.png using Guid(1251601e90dbc4382988a6ab3ed00602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b71a07c42a642370abeba6ed395bd87') in 0.004326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sonic color models/Burst Wisp/phantom_b_nsbmd.obj
+  artifactKey: Guid(aec7ec73d9e6a4349b256c35beba0a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Burst Wisp/phantom_b_nsbmd.obj using Guid(aec7ec73d9e6a4349b256c35beba0a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f388b9c105e35dce28550dc1c222cf') in 0.036442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Sonic color models/Burst Wisp/body2.png
+  artifactKey: Guid(b5b48c50ad5a14276a89a3554e3bca13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Burst Wisp/body2.png using Guid(b5b48c50ad5a14276a89a3554e3bca13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e652f4cc8f8a77a5fdf2ef4f4a47f39f') in 0.003649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Sonic color models/Burst Wisp/body3.png
+  artifactKey: Guid(f3805cd11d27a43a0a3ee1b28f12b755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Burst Wisp/body3.png using Guid(f3805cd11d27a43a0a3ee1b28f12b755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acbe68da536786d678b15f821f700fb6') in 0.004599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.741543 seconds.
+  path: Assets/Sonic color models/Lazer Wisp
+  artifactKey: Guid(6e662e740889b47bcbe70f0cafc65f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Lazer Wisp using Guid(6e662e740889b47bcbe70f0cafc65f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b54764df692611189abe673d6879dc') in 0.001084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.071872 seconds.
+  path: Assets/Sonic color models/Lazer Wisp/las_body.png
+  artifactKey: Guid(17cefe89ad60f42ccaf1fe5e2d316632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Lazer Wisp/las_body.png using Guid(17cefe89ad60f42ccaf1fe5e2d316632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff80c76a7e5971f2c22dffa9f686993d') in 0.004151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Sonic color models/Lazer Wisp/las_photon.png
+  artifactKey: Guid(8e305dc54480d42cfb45860e53b94b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Lazer Wisp/las_photon.png using Guid(8e305dc54480d42cfb45860e53b94b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c209eee2081a8fb21b51d6787ec3730e') in 0.003380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Sonic color models/Lazer Wisp/las_eye.png
+  artifactKey: Guid(982102f77c1cb4c628bf3f6721d4d0cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Lazer Wisp/las_eye.png using Guid(982102f77c1cb4c628bf3f6721d4d0cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21aafcb1da7b9f8ac24087ddfc867ec2') in 0.003805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Sonic color models/Lazer Wisp/Lazer.obj
+  artifactKey: Guid(c1280a7b39eba4c4c928be5befbab4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Lazer Wisp/Lazer.obj using Guid(c1280a7b39eba4c4c928be5befbab4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efea2dd668f535b1145ed29078dd6367') in 0.064031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.586686 seconds.
+  path: Assets/Sonic color models/Burst Wisp/phantom_b_nsbmd.mtl
+  artifactKey: Guid(a74d635c70f4f4aa1b265109410c1ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sonic color models/Burst Wisp/phantom_b_nsbmd.mtl using Guid(a74d635c70f4f4aa1b265109410c1ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9505464f274a387b807e7f90908063f') in 0.223283 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

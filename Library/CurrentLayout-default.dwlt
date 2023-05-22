@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1479
     height: 920
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 15
+  controlID: 26
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 16
+  controlID: 27
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 28
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sonic color models
+    - Assets/Sonic color models/Burst Wisp/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sonic color models
+  - Assets/Sonic color models/Burst Wisp/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/game1/Downloads/Scene Building Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 10400000
-    m_LastClickedID: 16400
-    m_ExpandedIDs: 000000006a3d00006c3d00006e3d0000703d0000763d0000783d00001040000000ca9a3b
+    m_SelectedIDs: 2e3f0000
+    m_LastClickedID: 16174
+    m_ExpandedIDs: 000000006a3d00006c3d00006e3d0000703d00007c3d0000803d0000823d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -388,7 +388,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000c24e0000f83b0000383c0000045600005a570000c63d0000cc3f00007a4000002e400000
+    m_ExpandedInstanceIDs: c6230000c24e0000f83b0000383c0000045600005a570000c63d0000cc3f00007a4000002e400000723e0000bc3e0000323f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 763d0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2e94ffffe0b7ffff86d4ffff76d8ffff6efbffff
+      m_ExpandedIDs: 6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 19.930542, y: 1.7320906, z: -20.082144}
+    m_Target: {x: -23.038855, y: 19.868742, z: 12.09034}
     speed: 2
-    m_Value: {x: 19.930542, y: 1.7320906, z: -20.082144}
+    m_Value: {x: -23.038853, y: 19.86874, z: 12.090337}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.020192897, y: -0.93088543, z: 0.05200295, w: -0.3612936}
+    m_Target: {x: -0.022246996, y: -0.97224337, z: 0.20907073, w: -0.10367148}
     speed: 2
-    m_Value: {x: -0.02019095, y: -0.93079567, z: 0.051997937, w: -0.36125877}
+    m_Value: {x: -0.022555409, y: -0.9715096, z: 0.21196423, w: -0.10359341}
   m_Size:
-    m_Target: 16.062647
+    m_Target: 7.6868706
     speed: 2
-    m_Value: 12.384462
+    m_Value: 7.686871
   m_Ortho:
     m_Target: 0
     speed: 2
