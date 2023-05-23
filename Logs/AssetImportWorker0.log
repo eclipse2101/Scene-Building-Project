@@ -22,100 +22,100 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49639
+49425
 Successfully changed project path to: /Users/game1/Downloads/Scene Building Project
 /Users/game1/Downloads/Scene Building Project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 31.57 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 26.13 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.42f1 (7ade1201f527)
 [Subsystems] Discovering subsystems at path /Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/game1/Downloads/Scene Building Project/Assets
 GfxDevice: creating device client; threaded=0
-2023-05-22 08:34:42.527 Unity[1083:14671] iMac preferred device: AMD Radeon Pro 5500 XT (high power)
-2023-05-22 08:34:42.527 Unity[1083:14671] Metal devices available: 1
-2023-05-22 08:34:42.527 Unity[1083:14671] 0: AMD Radeon Pro 5500 XT (high power)
-2023-05-22 08:34:42.527 Unity[1083:14671] Using device AMD Radeon Pro 5500 XT (high power)
+2023-05-23 08:32:51.155 Unity[1257:21395] iMac preferred device: AMD Radeon Pro 5500 XT (high power)
+2023-05-23 08:32:51.155 Unity[1257:21395] Metal devices available: 1
+2023-05-23 08:32:51.155 Unity[1257:21395] 0: AMD Radeon Pro 5500 XT (high power)
+2023-05-23 08:32:51.155 Unity[1257:21395] Using device AMD Radeon Pro 5500 XT (high power)
 Initializing Metal device caps: AMD Radeon Pro 5500 XT
 Initialize mono
 Mono path[0] = '/Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56083
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56257
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Users/game1/Desktop/2020.3.42f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000439 seconds.
+Registered in 0.000550 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 24.78 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 25.13 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.520 seconds
+- Completed reload, in  0.516 seconds
 Domain Reload Profiling:
-	ReloadAssembly (520ms)
-		BeginReloadAssembly (39ms)
+	ReloadAssembly (516ms)
+		BeginReloadAssembly (36ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (416ms)
-			LoadAssemblies (38ms)
+		EndReloadAssembly (415ms)
+			LoadAssemblies (36ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (156ms)
+			SetupTypeCache (155ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (154ms)
+			SetupLoadedEditorAssemblies (155ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (25ms)
 				BeforeProcessingInitializeOnLoad (9ms)
-				ProcessInitializeOnLoadAttributes (91ms)
-				ProcessInitializeOnLoadMethodAttributes (26ms)
+				ProcessInitializeOnLoadAttributes (89ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001021 seconds.
+Registered in 0.000995 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.908 seconds
+- Completed reload, in  0.895 seconds
 Domain Reload Profiling:
-	ReloadAssembly (909ms)
+	ReloadAssembly (896ms)
 		BeginReloadAssembly (127ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (26ms)
-		EndReloadAssembly (727ms)
-			LoadAssemblies (73ms)
+		EndReloadAssembly (714ms)
+			LoadAssemblies (61ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (268ms)
+			SetupTypeCache (273ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (44ms)
-			SetupLoadedEditorAssemblies (257ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (254ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
+				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (57ms)
-				ProcessInitializeOnLoadAttributes (182ms)
+				ProcessInitializeOnLoadAttributes (180ms)
 				ProcessInitializeOnLoadMethodAttributes (12ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (2ms)
 Platform modules already initialized, skipping
-Validating Project structure ... 0.009041 seconds.
+Validating Project structure ... 0.008985 seconds.
 Shader import version has changed; will reimport all shaders...
-Upgrading shader files ...0.013678 seconds.
+Upgrading shader files ...0.012715 seconds.
 Application.AssetDatabase Initial Script Refresh Start
 RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
 RefreshProfiler: Total: 0.000ms
@@ -129,14 +129,14 @@ Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
 Initializing Unity extensions:
 ========================================================================
 Worker process is ready to serve import requests
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1491 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 180.2 MB.
+System memory in use before: 180.3 MB.
 System memory in use after: 179.4 MB.
 
 Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 1971.
-Total: 2.473458 ms (FindLiveObjects: 0.111549 ms CreateObjectMapping: 0.043833 ms MarkObjects: 1.882772 ms  DeleteObjects: 0.434724 ms)
+Total: 2.399674 ms (FindLiveObjects: 0.104130 ms CreateObjectMapping: 0.041948 ms MarkObjects: 1.844210 ms  DeleteObjects: 0.408844 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -150,37 +150,119 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Sonic color models/DS DSi - Sonic Rush - Sonic the Hedgehog/actual good sonic models/Sonic.prefab
-  artifactKey: Guid(37f1cc8d085264c95afe23360aa7c86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sonic color models/DS DSi - Sonic Rush - Sonic the Hedgehog/actual good sonic models/Sonic.prefab using Guid(37f1cc8d085264c95afe23360aa7c86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c3d30f6d35bef1ed132ce2c00c608e') in 0.914066 seconds 
+  path: Assets/Prefabs/Sphere.prefab
+  artifactKey: Guid(74f485b8cc00f4107ad466dbf3a3cdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sphere.prefab using Guid(74f485b8cc00f4107ad466dbf3a3cdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89cb7fded9329e9ef6de95b244d48aad') in 0.952888 seconds 
 ========================================================================
-Received Import Request.
-  Time since last request: 12.460084 seconds.
-  path: Assets/Sonic color models/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/son.obj
-  artifactKey: Guid(897a0a74ecf0540e28685841731c6d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sonic color models/DS DSi - Sonic Rush - Sonic the Hedgehog/Son/son.obj using Guid(897a0a74ecf0540e28685841731c6d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '284df1f3e1411e893aa7854484d02c74') in 2.355234 seconds 
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.891 seconds
+Domain Reload Profiling:
+	ReloadAssembly (891ms)
+		BeginReloadAssembly (101ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (736ms)
+			LoadAssemblies (57ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (270ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (275ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (89ms)
+				ProcessInitializeOnLoadAttributes (168ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.1 MB.
+System memory in use after: 185.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1983.
+Total: 2.212235 ms (FindLiveObjects: 0.111661 ms CreateObjectMapping: 0.037813 ms MarkObjects: 2.046123 ms  DeleteObjects: 0.016127 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/Sonic color models/DS DSi - Sonic Rush - Sonic the Hedgehog/son_ball/son_ball.obj
-  artifactKey: Guid(e2f4f81e0d3f345bfb08b641d46db324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sonic color models/DS DSi - Sonic Rush - Sonic the Hedgehog/son_ball/son_ball.obj using Guid(e2f4f81e0d3f345bfb08b641d46db324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd70583c1b50ec51d25d5923cb38ddb59') in 0.048920 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1045.068937 seconds.
-  path: Assets/Sonic color models/Burst Wisp/Materials
-  artifactKey: Guid(7e3c09633c19443a396c004ecd2e0f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sonic color models/Burst Wisp/Materials using Guid(7e3c09633c19443a396c004ecd2e0f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c955b4ac3c9fb4327612267ba49905') in 0.002176 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.123978 seconds.
-  path: Assets/Sonic color models/Burst Wisp/Materials/eyes1.mat
-  artifactKey: Guid(b31223ff23bd048f2b7ab86520015500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sonic color models/Burst Wisp/Materials/eyes1.mat using Guid(b31223ff23bd048f2b7ab86520015500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e0b0dee186d610d6a3f85073e4a837') in 0.243870 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 369.095839 seconds.
-  path: Assets/Sonic color models/DS DSi - Sonic Rush - Sonic the Hedgehog/Lazer Wisp/Lazer.obj
-  artifactKey: Guid(c1280a7b39eba4c4c928be5befbab4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sonic color models/DS DSi - Sonic Rush - Sonic the Hedgehog/Lazer Wisp/Lazer.obj using Guid(c1280a7b39eba4c4c928be5befbab4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff99a175905563feacb077a5291ee4b5') in 0.065433 seconds 
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000934 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Domain Reload Profiling:
+	ReloadAssembly (868ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (719ms)
+			LoadAssemblies (60ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (260ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (272ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (166ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1482 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.2 MB.
+System memory in use after: 185.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1986.
+Total: 1.983448 ms (FindLiveObjects: 0.109319 ms CreateObjectMapping: 0.036684 ms MarkObjects: 1.824465 ms  DeleteObjects: 0.012495 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
